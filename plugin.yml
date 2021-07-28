@@ -2,7 +2,7 @@ name: FuturePlugin
 version: 0.1
 api: [3.0.0] # Pocketmine Version +Up
 author: Abhidjt
-main: test\main
+main: main\main
 
 commands:
   hi:
