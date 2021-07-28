@@ -1,5 +1,5 @@
 <?php
-namespace src;
+namespace test;
 use pocketmine\plugin\pluginbase;
 
 use pocketmine\command\command;
